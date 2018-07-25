@@ -1,0 +1,192 @@
+1531964051373	geckodriver	INFO	geckodriver 0.19.0
+1531964051408	geckodriver	INFO	Listening on 127.0.0.1:10115
+1531964054512	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "D:\\Personal\\Temp\\rust_mozprofile.nvP9Xx4yiVsh"
+1531964319085	geckodriver	INFO	geckodriver 0.19.0
+1531964319122	geckodriver	INFO	Listening on 127.0.0.1:10406
+1531964322191	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "D:\\Personal\\Temp\\rust_mozprofile.yCcW6bzsmhHx"
+1531964324532	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5336] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531964332770	Marionette	INFO	Listening on port 10414
+1531964332796	Marionette	INFO	Listening on port 10414
+1531964332833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531964332914	Marionette	DEBUG	loaded listener.js
+1531964333090	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1531964333565	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531964333566	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1531964333861	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1531964333949	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5964] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5336] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5964] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+envrpaths.vrpath
+[Parent 11676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7396] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7396] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531964375246	Marionette	INFO	Listening on port 10467
+1531964375261	Marionette	INFO	Listening on port 10467
+1531964375471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531964375539	Marionette	DEBUG	loaded listener.js
+1531964375575	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1531964376106	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531964376107	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1531964376355	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1531964376410	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+[GPU 2772] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1836] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1836] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531964413172	geckodriver	INFO	geckodriver 0.19.0
+1531964413202	geckodriver	INFO	Listening on 127.0.0.1:10532
+1531964416292	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "D:\\Personal\\Temp\\rust_mozprofile.XHdixyvgRVYz"
+1531964418253	Marionette	INFO	Enabled via --marionette
+1531964422835	Marionette	INFO	Listening on port 10540
+1531964423091	Marionette	INFO	Listening on port 10540
+1531964423743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531964423796	Marionette	DEBUG	loaded listener.js
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5468] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5468] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6044] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11396] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11396] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5468] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531964568588	geckodriver	INFO	geckodriver 0.19.0
+1531964568620	geckodriver	INFO	Listening on 127.0.0.1:10589
+1531964571699	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "D:\\Personal\\Temp\\rust_mozprofile.4eEe2f2ZnGG4"
+1531964573152	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9048] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7560] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1428] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1428] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531964577004	Marionette	INFO	Listening on port 10597
+1531964577019	Marionette	INFO	Listening on port 10597
+1531964577477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531964577529	Marionette	DEBUG	loaded listener.js
+[GPU 9048] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9048] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7560] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2012] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2012] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9048] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+calhost:8032/Mymovie/admin.php/Login/index.html"
+1531964659212	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+[GPU 11432] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9496] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14024] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14024] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+paths.vrpath
+[Child 7316] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7316] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531964747098	Marionette	INFO	Listening on port 10704
+1531964747126	Marionette	INFO	Listening on port 10704
+1531964747435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531964747497	Marionette	DEBUG	loaded listener.js
+1531964747571	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1531964747934	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531964747935	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1531964748128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1531964748217	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1531964748624	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1531964749780	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1531964749780	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1531964750132	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8032/Mymovie/admin.php/Index/index.html"
+1531964750407	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8032/Mymovie/admin.php/Index/index.html"
+[GPU 9092] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9092] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7268] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7268] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9092] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+lank"
+1531964838046	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1531964838311	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1531964838364	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1531964838633	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1531964839474	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1531964839475	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1531964839709	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8032/Mymovie/admin.php/Index/index.html"
+1531964839963	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8032/Mymovie/admin.php/Index/index.html"
+[GPU 15592] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7516] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+1532420069464	geckodriver	INFO	geckodriver 0.19.0
+1532420069506	geckodriver	INFO	Listening on 127.0.0.1:52891
+1532420072562	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "D:\\Personal\\Temp\\rust_mozprofile.02RnSga7odYV"
+1532420074569	Marionette	INFO	Enabled via --marionette
+1532420079142	Marionette	INFO	Listening on port 52912
+1532420079152	Marionette	INFO	Listening on port 52912
+1532420079255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532420079318	Marionette	DEBUG	loaded listener.js
+1532420079397	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1532420079802	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1532420079803	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1532420080056	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1532420080102	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1532420080393	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1532420081273	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1532420081274	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1532420081283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8032/Mymovie/admin.php/Login/checkLogin/"
+1532420081289	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8032/Mymovie/admin.php/Login/checkLogin/"
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15856] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15856] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17836] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17000] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17000] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ionette	DEBUG	Received DOM event "unload" for "about:blank"
+1532420093917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1532420093969	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1532420094256	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1532420095379	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1532420095380	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8032/Mymovie/admin.php/Login/index.html"
+1532420095666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8032/Mymovie/admin.php/Index/index.html"
+1532420095983	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8032/Mymovie/admin.php/Index/index.html"
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2700] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2700] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13816] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\think\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15976] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15976] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
